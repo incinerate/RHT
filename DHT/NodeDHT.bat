@@ -1,0 +1,1 @@
+java -cp bin;lib/log4j-core-2.11.2.jar;lib/log4j-api-2.11.2.jar; -Djava.security.policy=src/policyfile NodeDHT 1098 localhost 8

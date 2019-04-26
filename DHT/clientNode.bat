@@ -1,0 +1,1 @@
+java -cp bin;lib/log4j-core-2.11.2.jar;lib/log4j-api-2.11.2.jar; -Djava.security.policy=src/policyfile ClientNode 127.0.0.1 5
